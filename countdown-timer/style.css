@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;1,100;1,200&display=swap');
+
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    color: whitesmoke;
+    background-image: url("/countdown-timer/stones.jpg");
+    min-height: 100vh;
+    background-size: cover;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.countdown-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+.big-text{
+    font-size: 10rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+    font-weight: bold;
+}
+
+.contain-el{
+    text-align: center;
+}
+
+.contain-el span{
+    font-size: 3rem;
+    font-weight: bold;
+}
