@@ -1,4 +1,4 @@
 # html-css-js
 Practice projects
-https://tarundeshmukh.github.io/html-css-js/
+https://thecountrymouth.github.io/html-css-js/
 ###
